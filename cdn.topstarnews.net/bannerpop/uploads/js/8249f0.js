@@ -1,0 +1,1 @@
+var bannerStatus="1" ,startTime="1731904380" ,endTime="2047993200" ,bannerContent="%3Cdiv%20class%3D%22banner_box%22%3E%3Cimg%20src%3D%22%2Fbannerpop%2Fuploads%2Fimage%2F1732513509110225664.png%22%20class%3D%22float-center%22%20alt%3D%22%22%20%20%2F%3E%0A%3C%2Fdiv%3E%0A" ,bannerVoteUse="" ,bannerTitle="15%EC%A3%BC%EB%85%84_241118"; bannerpop.append();
