@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.quantserve.com	TRUE	/	FALSE	1999999999	mc	68bf947b-65505-a4895-340c5
+cdn.taboola.com	TRUE	/	FALSE	1999999999	abLdr	4
+cdn.taboola.com	TRUE	/	FALSE	1999999999	SameSite	None
+
